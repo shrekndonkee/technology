@@ -1,0 +1,12 @@
+header, nav, main {
+    max-width: 960px;
+    margin: auto;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+/* NAVIGATION STUFF GOES HERE  */
